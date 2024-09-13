@@ -1,0 +1,11 @@
+
+build:
+  version: "2.0"
+
+reservation:
+  message: "Welcome to Klandodo Transportation related qa APIs "
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "support@klandodo.com"
+  onCallSupport:
+    - (647) 834-1811

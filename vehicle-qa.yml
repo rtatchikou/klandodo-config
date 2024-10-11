@@ -6,7 +6,7 @@ spring:
 build:
   version: "2.0"
 
-car:
+vehicle:
   message: "Welcome to Klandodo Transportation related qa APIs "
   contactDetails:
     name: "John Doe - Developer"
